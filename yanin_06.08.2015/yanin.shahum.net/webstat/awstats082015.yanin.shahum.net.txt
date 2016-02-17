@@ -1,0 +1,383 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201508 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.yanin.shahum.net.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1996                
+POS_TIME 2684                
+POS_VISITOR 6671                
+POS_DAY 8663                
+POS_DOMAIN 3389                
+POS_LOGIN 3624                
+POS_ROBOT 3779                
+POS_WORMS 4021                
+POS_EMAILSENDER 4152                
+POS_EMAILRECEIVER 4295                
+POS_SESSION 8857                
+POS_SIDER 9053                
+POS_FILETYPES 4430                
+POS_DOWNLOADS 4718                
+POS_OS 4786                
+POS_BROWSER 4886                
+POS_SCREENSIZE 5096                
+POS_UNKNOWNREFERER 5170                
+POS_UNKNOWNREFERERBROWSER 5412                
+POS_ORIGIN 5608                
+POS_SEREFERRALS 5747                
+POS_PAGEREFS 5891                
+POS_SEARCHWORDS 6039                
+POS_KEYWORDS 6191                
+POS_MISC 2346                
+POS_ERRORS 6250                
+POS_CLUSTER 3480                
+POS_SIDER_404 6362                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20150806000303 1392 398553 16694652060499
+FirstTime 20150801000053
+LastTime 20150806000303
+LastUpdate 20150806000539 1392 0 1392 0 0
+TotalVisits 43                  
+TotalUnique 37                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 53                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 113 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 19 35 20559 2 2 538
+1 1 1 583 1 1 269
+2 0 0 0 0 0 0
+3 0 0 0 0 0 0
+4 0 0 0 0 0 0
+5 30 315 16827004 1 2 1726
+6 5 176 5909875 2 2 538
+7 10 78 820070 5 5 3656
+8 186 872 20139034 6 12 4538
+9 212 1666 497524 4 6 4089
+10 167 4923 700024 8 15 12067
+11 117 3691 862422 4 21 20952
+12 224 1736 16347821 17 46 27416
+13 118 370 7540699 10 24 15189
+14 418 1235 18184258 21 57 618949
+15 113 232 3560193 6 7 1963
+16 138 275 6297772 4 5 22457
+17 155 408 3752315 2 2 538
+18 72 522 14818429 8 9 5072
+19 10 14 224128 0 2 474
+20 0 0 0 0 0 0
+21 0 0 0 0 0 0
+22 3 117 7713188 1 2 1725
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 1998 16666 124215898
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+wordpress 47 12755 20150806000259 0
+googlebot 3 39596 20150803145006 1
+w3c_validator 2 21682 20150803165808 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+css 3127 2124010 0 0
+png 1643 2035541 0 0
+woff2 82 114096 0 0
+woff 47 937928 0 0
+php 1560 7777170 0 0
+html 309 3647853 0 0
+js 5947 2563444 0 0
+jpg 2517 100427209 0 0
+jpeg 1190 4091146 0 0
+svg 16 8716 0 0
+gif 228 488785 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/robots.txt 1 0 390
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 6
+macosx 2533
+winxp 1
+java 1
+Unknown 4
+winvista 188
+win7 13939
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 10
+chrome44.0.2403.107 170
+chrome44.0.2403.125 13957
+safari7.0 232
+safari7.1.6 216
+netscape5.0 2
+safari8.0 442
+safari8.0.7 834
+Unknown 3
+safari 809
+firefox11.0 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+Validator.nu/LV_http://validator.w3.org/services 20150803165810
+Mozilla/5.0_Moreover/5.1_(_http://www.moreover.com;_webmaster@moreover.com) 20150803145017
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Validator.nu/LV_http://validator.w3.org/services 20150803165810
+Apache-HttpClient/4.3.5_(java_1.5) 20150803150829
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 54 55
+From1 0 0
+From2 0 0
+From3 0 0
+From4 1944 16611
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+302 45 38884
+206 4 555341
+301 6 3223
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 0
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 53
+109.75.35.142 1741 13917 34880695 20150805153609
+72.10.140.66 50 588 8526044 20150803172326
+68.224.86.207 39 442 19669764 20150805070658
+24.234.125.219 27 198 9110804 20150805052306
+66.249.81.213 23 148 2398524 20150803123216
+75.56.201.216 22 188 9945502 20150805184942
+66.249.81.210 16 171 2067839 20150803123119
+66.249.81.207 16 168 2075046 20150803123311
+66.249.93.240 10 65 612213 20150803122356
+24.188.158.158 7 129 6025855 20150805162017
+217.76.3.249 0 1 969533 
+217.76.3.241 1 1 1610 20150801132058
+217.76.3.226 0 2 20776 
+217.76.3.229 0 1 848 
+66.249.93.234 2 46 981044 20150803122314
+217.76.3.238 0 19 605580 
+66.249.93.237 6 63 1503806 20150803122432
+217.76.3.220 0 1 51078 
+217.76.3.195 1 3 28055 20150801132040
+217.76.3.203 1 11 82812 20150801123305
+217.76.3.227 1 1 23323 20150801132443
+217.76.3.243 4 23 254727 20150801132414
+217.76.3.246 0 19 220094 
+70.39.246.37 2 2 15983 20150803145017
+217.76.3.245 2 6 204229 20150801132118
+71.52.35.192 2 18 11008 20150806000303 20150806000253 /wp-admin/admin-ajax.php
+217.76.3.232 1 1 1054 20150801123440
+217.76.3.214 2 2 25829 20150801132507
+166.137.8.59 3 117 7716200 20150805051042
+217.76.3.206 0 1 10789 
+217.76.3.239 0 1 10515 
+37.252.80.62 1 1 583 20150801014653
+217.76.3.217 1 1 3865 20150801132526
+217.76.3.250 0 1 839929 
+217.76.3.213 0 2 31721 
+128.30.52.71 1 1 10878 20150803165748
+217.76.3.248 1 2 24380 20150801132357
+217.76.3.209 1 1 7727 20150801132050
+217.76.3.215 0 16 980071 
+217.76.3.211 0 4 36130 
+217.76.3.233 1 4 42340 20150801132019
+217.76.3.222 1 5 51443 20150801132121
+217.76.3.204 1 1 3836 20150801132452
+217.76.3.201 1 29 416077 20150801123317
+217.76.3.205 2 5 57211 20150801132334
+107.188.30.141 3 117 7713188 20150803220451
+128.30.52.70 1 1 10878 20150803165810
+217.76.3.237 0 1 782 
+217.76.3.231 0 1 1004 
+217.76.3.218 0 3 14536 
+68.108.127.163 3 115 5906735 20150804083658
+54.91.137.217 1 1 10879 20150803150829
+217.76.3.224 0 1 526 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 5
+20150801 60 492 9886091 19
+20150803 987 13482 48934512 13
+20150804 645 1321 21375208 3
+20150805 304 1353 44009079 7
+20150806 2 18 11008 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+1h+ 3
+5mn-15mn 5
+30s-2mn 1
+15mn-30mn 7
+0s-30s 24
+30mn-1h 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 63
+/wp-admin/admin-ajax.php 1395 1846118 6 16
+/ 130 1601094 19 6
+/wp-content/plugins/motopress-content-editor/fonts/font-awesome/fonts/fontawesome-webfont.woff2 82 114096 1 1
+/wp-content/plugins/cherry-plugin/admin/shortcodes/dialog-js.php 63 762622 0 0
+/wp-admin/post.php 22 1340528 1 0
+/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff 20 197675 1 2
+/cart/ 19 428764 3 3
+/shop/ 18 162006 1 1
+/wp-admin/load-scripts.php 17 1892254 0 0
+/my-account/ 16 131000 0 2
+/about/ 3 27472 0 0
+/product-category/test-2/ 7 62149 0 0
+/wp-admin/post-new.php 4 208035 0 0
+/product/adzuki-beans/ 13 125173 1 1
+/wp-admin/load-styles.php 6 485066 0 0
+/wp-admin/index.php 2 69176 0 0
+/wp-admin/users.php 5 148199 0 0
+/about/testi/ 1 8867 0 0
+/product/bourma-kadaifi-pistachio/ 6 54943 0 0
+/feed/ 1 5106 0 1
+/uncategorized/the-6-healthiest-staple-foods-in-greek-cuisine/ 2 26603 0 0
+/product-category/pasta/ 1 7078 0 0
+/product/black-beans/ 3 30499 0 0
+/wp-includes/js/tinymce/skins/lightgray/fonts/tinymce.woff 1 9218 0 0
+/wp-admin/admin.php 3 126894 0 0
+/wp-content/plugins/woocommerce/assets/fonts/star.woff 11 12875 1 1
+/wp-content/plugins/motopress-content-editor/fonts/font-awesome/fonts/fontawesome-webfont.woff 15 718160 2 3
+/wp-admin/ 3 103728 0 0
+/activate/ 1 7855 0 0
+/product-category/beans/ 9 77890 2 2
+/blog/ 7 73796 0 0
+/checkout/ 4 103765 0 0
+/uncategorized/etiam-dictum-egestas/ 2 23867 1 0
+/wp-admin/edit-tags.php 11 353297 0 0
+/about/faqs/ 4 35450 0 1
+/wp-admin/user-edit.php 1 46007 0 0
+/myadmin/index.php 1 2864 0 0
+/wp-admin/plugins.php 4 125166 0 0
+/new-arrivals/ 4 32124 0 0
+/contacts/ 9 51974 1 1
+/wp-comments-post.php 1 1755 0 0
+/product/baklava-with-walnut/ 3 27509 0 0
+/myadmin/phpmyadmin.css.php 1 9389 0 0
+/product-category/canned-bottled-goods/ 1 7120 0 0
+/myadmin/js/messages.php 1 5345 0 0
+/testimonial-view/testimonial-3/ 3 27225 0 0
+/product-category/nutsseeds/ 1 7090 0 0
+/product/test-product/ 2 21881 0 0
+/privacy-policy/ 1 8957 0 0
+/product/test-2-product/ 1 10977 0 0
+/product-category/mineral-water/ 1 7089 0 0
+/how-to-use-the-site/ 5 36908 1 0
+/blog-category-test/blog-post-test/ 3 35312 0 0
+/product-category/frozen-goods/ 1 7090 1 0
+/checkout/order-received/2188/ 1 20185 0 0
+/product-category/baklava/ 3 25935 0 0
+/wp-admin/edit.php 9 313911 0 0
+/wp-login.php 14 40544 1 0
+/my-account/edit-address/billing/ 1 22433 0 1
+/product-category/bread-pita/ 2 14153 0 0
+/product-category/test/ 3 24582 0 0
+/uncategorized/resources/ 12 146381 0 0
+/my-account/edit-account/ 2 15823 0 0
+END_SIDER

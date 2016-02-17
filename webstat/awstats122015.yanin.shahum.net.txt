@@ -1,0 +1,296 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201512 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.yanin.shahum.net.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1996                
+POS_TIME 2668                
+POS_VISITOR 6332                
+POS_DAY 6742                
+POS_DOMAIN 3265                
+POS_LOGIN 3497                
+POS_ROBOT 3652                
+POS_WORMS 3931                
+POS_EMAILSENDER 4062                
+POS_EMAILRECEIVER 4205                
+POS_SESSION 7015                
+POS_SIDER 7193                
+POS_FILETYPES 4340                
+POS_DOWNLOADS 4630                
+POS_OS 4699                
+POS_BROWSER 4771                
+POS_SCREENSIZE 4943                
+POS_UNKNOWNREFERER 5017                
+POS_UNKNOWNREFERERBROWSER 5104                
+POS_ORIGIN 5186                
+POS_SEREFERRALS 5323                
+POS_PAGEREFS 5467                
+POS_SEARCHWORDS 5615                
+POS_KEYWORDS 5767                
+POS_MISC 2331                
+POS_ERRORS 5826                
+POS_CLUSTER 3353                
+POS_SIDER_404 5939                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20160106023455 1 0 9756243714127
+FirstTime 20151201053603
+LastTime 20151229081830
+LastUpdate 20160107000128 1 0 0 0 0
+TotalVisits 13                  
+TotalUnique 8                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 8                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 32 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 7 166 5859149 2 9 183848
+1 3 119 4940746 1 2 1725
+2 0 0 0 0 0 0
+3 0 0 0 0 0 0
+4 48 417 29120265 5 19 21524
+5 43 205 4334641 3 13 51452
+6 0 0 0 2 3 8578
+7 0 0 0 0 0 0
+8 8 150 5471125 1 2 1725
+9 2 2 21691 3 8 39357
+10 0 0 0 0 0 0
+11 3 119 4940749 1 2 1725
+12 0 0 0 0 0 0
+13 0 0 0 0 0 0
+14 0 0 0 0 0 0
+15 0 0 0 0 0 0
+16 0 0 0 0 0 0
+17 0 0 0 0 0 0
+18 4 4 43377 2 11 61853
+19 2 2 21690 1 6 30381
+20 7 134 4931472 4 11 41975
+21 2 2 11897 0 0 0
+22 0 0 0 0 0 0
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 129 1320 59696802
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+wordpress 18 4842 20151229081801 0
+bot[\s_+:,\.\;\/\\-] 6 25908 20151222062406 3
+favicon 1 8096 20151220203438 0
+netcraft 1 47820 20151210050256 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 12
+css 251 1233786 0 0
+png 127 2705751 0 0
+bmp 7 2744856 0 0
+woff2 5 285241 0 0
+woff 4 172507 0 0
+php 87 2939819 0 0
+html 33 348685 0 0
+jpg 342 46939408 0 0
+js 431 1827720 0 0
+jpeg 11 221084 0 0
+gif 20 276184 0 0
+svg 2 1761 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/robots.txt 3 0 1038
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 3
+macosx 296
+winvista 283
+win7 741
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 7
+chrome46.0.2490.86 219
+safari8.0 5
+safari9.0 151
+chrome47.0.2526.106 283
+mozilla 6
+safari9.0.1 134
+chrome47.0.2526.73 522
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 23 23
+From1 0 0
+From2 0 0
+From3 0 0
+From4 106 1297
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+302 1 1268
+206 2 153196
+404 25 186986
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 3
+/apple-touch-icon-precomposed.png 12 -
+/apple-touch-icon.png 12 -
+/wp-Login.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 8
+107.167.108.74 86 522 30656538 20151216051321
+96.20.22.168 8 8 86760 20151217095208
+63.143.237.115 8 150 5471125 20151229081830
+37.186.68.52 8 283 10778203 20151229000922
+71.52.36.102 7 134 4921684 20151218210913
+203.87.156.178 5 100 2798368 20151201055336
+72.10.140.66 4 4 43375 20151216191448
+109.75.35.142 3 119 4940749 20151207114338
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 9
+20151201 5 100 2798368 1
+20151203 2 2 21692 1
+20151207 7 123 4984119 3
+20151213 2 2 21692 1
+20151216 88 524 30678228 2
+20151217 2 2 21691 1
+20151218 7 134 4921684 1
+20151227 3 119 4940746 1
+20151229 13 314 11308582 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+0s-30s 9
+15mn-30mn 2
+2mn-5mn 1
+30mn-1h 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 24
+/wp-admin/admin-ajax.php 36 343599 1 4
+/ 23 246632 11 6
+/wp-content/plugins/cherry-plugin/admin/shortcodes/dialog-js.php 16 192800 0 0
+/wp-admin/load-scripts.php 14 1536123 0 0
+/wp-admin/edit-tags.php 6 197802 0 0
+/wp-admin/edit.php 5 191211 0 0
+/wp-content/plugins/motopress-content-editor/fonts/font-awesome/fonts/fontawesome-webfont.woff2 5 285241 0 1
+/wp-admin/load-styles.php 4 322295 0 0
+/wp-content/plugins/motopress-content-editor/fonts/font-awesome/fonts/fontawesome-webfont.woff 2 143632 0 0
+/shop/ 2 15867 0 0
+/wp-admin/post-new.php 1 44717 0 0
+/product-category/rice/ 1 9917 0 0
+/product-category/dry-fruits/ 1 8259 0 1
+/product-category/rollini-mini/ 1 7745 0 0
+/wp-includes/js/tinymce/skins/lightgray/fonts/tinymce.woff 1 9163 0 0
+/wp-admin/ 1 33910 0 0
+/product/basmati-rice-domestic/ 1 10531 0 0
+/how-to-use-the-site/ 1 7381 0 0
+/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff 1 19712 0 0
+/wp-admin/edit-comments.php 1 33043 0 0
+/wp-admin/post.php 1 45828 0 0
+/wp-admin/upload.php 1 27629 0 0
+/wp-login.php 2 4772 1 0
+/contacts/ 2 8443 0 1
+END_SIDER
