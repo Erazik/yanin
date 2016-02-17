@@ -1,0 +1,290 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201601 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.yanin.shahum.net.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1996                
+POS_TIME 2667                
+POS_VISITOR 6170                
+POS_DAY 6411                
+POS_DOMAIN 3251                
+POS_LOGIN 3483                
+POS_ROBOT 3638                
+POS_WORMS 3839                
+POS_EMAILSENDER 3970                
+POS_EMAILRECEIVER 4113                
+POS_SESSION 6702                
+POS_SIDER 6876                
+POS_FILETYPES 4248                
+POS_DOWNLOADS 4536                
+POS_OS 4584                
+POS_BROWSER 4651                
+POS_SCREENSIZE 4802                
+POS_UNKNOWNREFERER 4876                
+POS_UNKNOWNREFERERBROWSER 4963                
+POS_ORIGIN 5045                
+POS_SEREFERRALS 5182                
+POS_PAGEREFS 5326                
+POS_SEARCHWORDS 5474                
+POS_KEYWORDS 5626                
+POS_MISC 2331                
+POS_ERRORS 5685                
+POS_CLUSTER 3339                
+POS_SIDER_404 5787                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20160202224340 1 0 9713126268241
+FirstTime 20160106023455
+LastTime 20160129034415
+LastUpdate 20160203000136 1 0 0 0 0
+TotalVisits 11                  
+TotalUnique 4                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 4                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 6 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 20 20 11219 0 0 0
+1 0 0 0 0 0 0
+2 4 4 22332 4 9 80013
+3 6 171 395676 2 8 56199
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 0 0 0 0 0 0
+7 0 0 0 0 0 0
+8 0 0 0 0 0 0
+9 14 160 4440708 2 3 2106
+10 0 0 0 0 0 0
+11 0 0 0 0 0 0
+12 0 0 0 0 0 0
+13 3 119 4940749 1 2 1726
+14 0 0 0 0 0 0
+15 0 0 0 0 0 0
+16 0 0 0 0 0 0
+17 4 120 4084433 1 1 269
+18 0 0 0 0 0 0
+19 60 317 6404295 3 6 17380
+20 2 2 21689 0 4 37124
+21 0 0 0 0 0 0
+22 9 50 3005121 2 10 65639
+23 258 308 8453303 17 17 37764
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 380 1271 31779525
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 2
+wordpress 13 3609 20160129034004 0
+netcraft 1 47820 20160112020132 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 12
+css 165 576614 0 0
+png 88 1725036 0 0
+bmp 5 1568520 0 0
+woff 6 192384 0 0
+woff2 2 114096 0 0
+php 327 3718057 0 0
+html 45 558730 0 0
+jpg 300 21969775 0 0
+js 305 946842 0 0
+jpeg 11 221689 0 0
+gif 16 185966 0 0
+svg 1 1816 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 3
+macosx 990
+linux 2
+win7 279
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 6
+chrome26.0.1410.63 2
+safari9.0 124
+safari9.0.3 169
+mozilla 4
+chrome47.0.2526.106 279
+safari9.0.2 693
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 38 45
+From1 0 0
+From2 0 0
+From3 0 0
+From4 342 1226
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+302 14 11350
+404 26 230410
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 3
+/wp 4 -
+/apple-touch-icon-precomposed.png 11 -
+/apple-touch-icon.png 11 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 4
+71.52.36.102 351 699 17917313 20160122225341
+109.75.35.142 21 399 13465890 20160112173500
+24.253.49.97 6 171 395676 20160129034415
+185.112.142.31 2 2 646 20160128024958
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 10
+20160106 2 2 21686 1
+20160107 17 279 9381457 2
+20160109 60 317 6404295 1
+20160112 4 120 4084433 1
+20160115 2 2 21689 1
+20160118 265 356 11436737 1
+20160119 20 20 11219 1
+20160122 2 2 21687 1
+20160128 2 2 646 1
+20160129 6 171 395676 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+1h+ 1
+15mn-30mn 3
+0s-30s 6
+30s-2mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 26
+/wp-admin/admin-ajax.php 237 748144 2 5
+/wp-content/plugins/cherry-plugin/admin/shortcodes/dialog-js.php 33 399491 0 0
+/ 26 310040 9 3
+/wp-admin/edit.php 22 892800 0 0
+/wp-admin/post.php 10 461556 0 0
+/wp-admin/load-scripts.php 8 844673 0 0
+/wp-login.php 8 18415 0 0
+/wp-admin/load-styles.php 4 322519 0 0
+/wp-admin/async-upload.php 4 2770 0 0
+/wp-content/plugins/motopress-content-editor/fonts/font-awesome/fonts/fontawesome-webfont.woff 3 143632 0 0
+/shop/ 2 17829 0 0
+/wp-includes/js/tinymce/skins/lightgray/fonts/tinymce.woff 1 9218 0 0
+/wp-admin/ 3 101967 0 0
+/blog/ 1 11055 0 1
+/product-category/beans/ 1 8330 0 0
+/product/lentils-red/ 3 26684 0 1
+/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff 2 39534 0 0
+/product-category/baklava/ 1 7704 0 0
+/product/olive-oil-100-romeo-pomas/ 3 32217 0 0
+/product-category/beans/page/2/ 1 8142 0 0
+/product-category/oil/ 1 10386 0 0
+/wp-admin/upload.php 1 27689 0 0
+/contacts/ 1 8079 0 1
+/product-category/bread-pita/ 1 7782 0 0
+/product/14-jack-whole-wheat-pita-16oz-8-5/ 1 8515 0 0
+/wp-content/plugins/motopress-content-editor/fonts/font-awesome/fonts/fontawesome-webfont.woff2 2 114096 0 0
+END_SIDER

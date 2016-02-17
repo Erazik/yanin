@@ -1,0 +1,491 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201509 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.yanin.shahum.net.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1996                
+POS_TIME 2657                
+POS_VISITOR 7862                
+POS_DAY 8666                
+POS_DOMAIN 3512                
+POS_LOGIN 3748                
+POS_ROBOT 3903                
+POS_WORMS 4157                
+POS_EMAILSENDER 4288                
+POS_EMAILRECEIVER 4431                
+POS_SESSION 9391                
+POS_SIDER 9598                
+POS_FILETYPES 4566                
+POS_DOWNLOADS 4921                
+POS_OS 4989                
+POS_BROWSER 5100                
+POS_SCREENSIZE 5501                
+POS_UNKNOWNREFERER 5575                
+POS_UNKNOWNREFERERBROWSER 5662                
+POS_ORIGIN 5744                
+POS_SEREFERRALS 5886                
+POS_PAGEREFS 6030                
+POS_SEARCHWORDS 6178                
+POS_KEYWORDS 6330                
+POS_MISC 2318                
+POS_ERRORS 6389                
+POS_CLUSTER 3604                
+POS_SIDER_404 6544                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20151001002516 1 0 9457021681754
+FirstTime 0
+LastTime 20150929164541
+LastUpdate 20151002000657 1 0 0 0 0
+TotalVisits 68                  
+TotalUnique 16                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 17                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 1779 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 15 307 13064793 4 9 20401
+2 39 187 7340071 4 5 4338
+3 2 2 21574 2 7 31643
+4 5 48 813929 3 3 807
+5 17 249 13532961 2 4 2233
+6 25 415 9588366 3 3 3003
+7 24 398 16489907 6 7 3949
+8 858 4977 46625490 92 275 2443172
+9 1498 9607 43854382 147 426 991039
+10 1598 11010 48447564 132 429 193178
+11 1109 7666 35636611 56 201 105065
+12 1047 5389 23271162 62 206 108433
+13 1077 11208 30637095 78 232 136051
+14 1187 4802 18299845 99 323 1526261
+15 1178 5978 34155598 87 231 633041
+16 1217 14898 71936664 85 271 3523119
+17 398 2081 31041924 34 90 126157
+18 175 840 30050682 12 21 29456
+19 45 283 235790 9 9 4367
+20 49 362 6881918 9 15 45810
+21 38 437 23477463 8 14 17784
+22 46 293 9338027 5 7 4524
+23 18 129 2028599 9 13 21792
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 11665 81566 516770415
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+wordpress 143 38697 20150929164537 0
+bot[\s_+:,\.\;\/\\-] 2 10469 20150907215857 1
+no_user_agent 1 12105 20150904154537 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 14
+css 16213 10270852 0 0
+eot 2 80958 0 0
+png 7714 21312834 0 0
+bmp 483 17006391 0 0
+woff2 353 1996681 0 0
+woff 106 2141874 0 0
+swf 2 8712 0 0
+php 9860 115695656 0 0
+html 1342 14114317 0 0
+jpg 15236 316611220 0 0
+js 29124 13389670 0 0
+jpeg 96 1608147 0 0
+gif 1013 2501749 0 0
+svg 22 31354 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/robots.txt 1 0 346
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 6
+macosx 3999
+linuxandroid 4867
+winxp 1
+linux 120
+winvista 105
+win7 72474
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 18
+chrome45.0.2454.85 58203
+chrome45.0.2454.99 3221
+firefox40.0 119
+safari8.0.8 1143
+chrome43.0.2357.125 119
+iphone 1
+safari7.0.6 118
+chrome45.0.2454.94 92
+chrome45.0.2454.101 145
+mozilla 266
+chrome44.0.2403.157 5380
+chrome45.0.2454.93 5407
+safari8.0 532
+chrome45.0.2454.84 1758
+safari7.1.8 2044
+chrome31.0.1650.59 2900
+firefox11.0 1
+chrome30.0.0.0 117
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 513 518
+From1 0 0
+From2 0 0
+From3 0 0
+From4 11152 81048
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+403 4 7354
+302 738 499829
+206 48 8389783
+500 19 6640
+404 36 223894
+301 30 16872
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 18
+/apple-touch-icon-precomposed.png 5 -
+/wp.admin/ 1 -
+/wp-content/themes/theme53393/images/logo_2.png 1 http://yanin.shahum.net/
+/apple-touch-icon.png 9 -
+/wp-content/plugins/custom-field-suite/assets/js/select2/select2-spinner.gif 2 http://yanin.shahum.net/wp-content/plugins/custom-field-suite/assets/js/select2/select2.css
+/your_website_url_here/wp-content/uploads/2015/02/slide1.jpg 1 http://yanin.shahum.net/
+/apple-touch-icon-120x120.png 1 -
+/shop/ 5 http://yanin.shahum.net/
+/wp.admin 1 -
+/apple-touch-icon-152x152.png 1 -
+/apple-touch-icon-120x120-precomposed.png 1 -
+/product/pepperoncini-greek-3/ 1 http://yanin.shahum.net/wp-admin/post.php
+/apple-touch-icon-152x152-precomposed.png 1 -
+/new-arrivals/ 1 http://yanin.shahum.net/
+/wp-content/themes/theme53393/images/logo3.png 1 http://yanin.shahum.net/
+/contacts/ 2 http://yanin.shahum.net/
+/product/baklava-with-walnut/ 1 http://yanin.shahum.net/product-category/baklava/
+/wp-content/themes/CherryFramework/css/style.css 1 http://yanin.shahum.net/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 17
+109.75.35.142 11060 75827 354064915 20150929164541
+71.52.36.102 284 1625 32280791 20150926022231
+72.10.140.66 100 670 22360271 20150925012048
+68.224.86.207 54 830 30917693 20150916091442
+141.136.94.96 45 217 8703179 20150903224923
+87.241.184.83 24 128 1743743 20150906225101
+141.136.84.135 19 857 6171894 20150905142930
+96.20.22.168 16 170 7677566 20150927233500
+24.253.107.192 14 132 7220812 20150923051442
+24.253.126.28 14 160 7553845 20150914020120
+66.249.93.237 0 1 24712 
+172.56.40.236 3 46 793076 20150909042624
+46.70.89.174 3 92 1690503 20150927230350
+141.136.88.70 11 221 2452183 20150905143043
+141.136.93.99 3 118 7137346 20150921220048
+178.63.89.147 1 1 10069 20150906025737
+24.188.158.158 14 471 25967817 20150923212543
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 25
+20150903 51 360 16670204 2
+20150904 3405 10126 52440501 1
+20150905 46 1311 13566378 4
+20150906 25 129 1753812 2
+20150907 176 512 9351857 8
+20150908 4963 9204 82902619 4
+20150909 695 9812 81984351 8
+20150910 634 34668 57232995 2
+20150911 128 4426 32898018 2
+20150912 1 1 10730 1
+20150914 14 160 7553845 1
+20150915 156 611 11618018 3
+20150916 36 254 3054448 2
+20150918 78 352 8453928 5
+20150919 9 126 4557732 2
+20150920 1 1 10727 1
+20150921 6 235 13446530 2
+20150922 629 5113 48574850 2
+20150923 22 257 14426049 5
+20150924 25 282 7662404 3
+20150925 348 1750 29854053 2
+20150926 15 172 7028582 1
+20150927 4 93 1700408 2
+20150928 194 1466 9982120 1
+20150929 4 145 35256 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 16
+5mn-15mn 6
+0s-30s 32
+30s-2mn 4
+2mn-5mn 3
+15mn-30mn 3
+30mn-1h 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 158
+/wp-admin/admin-ajax.php 6693 8661887 4 29
+/wp-content/plugins/cherry-plugin/admin/shortcodes/dialog-js.php 1398 16924316 0 0
+/ 620 6935887 54 21
+/wp-admin/post.php 580 26914558 0 0
+/wp-admin/post-new.php 506 22504536 0 0
+/wp-content/plugins/motopress-content-editor/fonts/font-awesome/fonts/fontawesome-webfont.woff2 353 1996681 0 2
+/wp-admin/load-scripts.php 203 21992332 0 0
+/shop/ 133 1183652 1 0
+/my-account/ 131 1087460 1 3
+/wp-admin/edit.php 104 3824368 0 0
+/product/puff-pastery-full-sheet/ 1 10465 0 0
+/wp-admin/index.php 1 34112 0 0
+/product-category/rice/ 1 7793 0 0
+/wp-admin/users.php 43 1305838 0 0
+/product-category/spices/page/4/ 3 30093 0 0
+/product-category/coffee/ 3 25548 0 0
+/wp-admin/async-upload.php 25 25500 0 0
+/product/pie-kasseri/ 1 10263 0 0
+/product-category/spices/page/18/ 2 20046 0 0
+/product-category/spices/page/6/ 2 20156 0 0
+/product-category/beans/ 17 149299 0 0
+/product/apple-rings-dry/ 62 594592 0 0
+/product-category/spices/page/2/ 3 30016 0 0
+/new-arrivals/ 5 36944 0 0
+/product-category/seeds/ 1 7843 0 0
+/checkout/order-received/2741/ 2 44022 0 0
+/product/lemon-juice-byblos/ 1 8435 0 0
+/product-category/nutsseeds/page/4/ 7 63949 1 0
+/product-category/spices/ 16 146514 0 0
+/myadmin/ 1 3213 0 0
+/product-category/grains/page/2/ 1 7798 0 0
+/product-category/mineral-water/ 1 9473 0 0
+/product/ajvar-hot-sera/ 3 26386 0 0
+/product-category/spices/page/7/ 2 20094 0 0
+/product/zahtar-green-jordanian/ 5 52051 0 0
+/wp-admin/customize.php 2 113808 0 0
+/wp-login.php 48 108737 3 3
+/product-category/dairy/page/7/ 5 49030 0 0
+/product/fava-bean-split-2/ 1 8639 0 1
+/product/alfonso-olives/ 1 8404 0 0
+/product-category/nutsseeds/page/5/ 1 9581 0 0
+/product/14-jack-white-pita-18oz-10/ 1 8834 0 0
+/product/almonds-roasted/ 1 10283 0 0
+/about/testi/ 3 27825 0 0
+/product/fava-bean-split/ 1 8587 0 0
+/product-category/dry-fruits/page/2/ 1 7815 0 0
+/my-account/edit-address/shipping/ 4 75712 0 0
+/product-category/nutsseeds/page/2/ 3 29012 0 0
+/product-category/dairy/page/6/ 2 19513 0 0
+/activate/ 10 62825 0 0
+/checkout/ 7 183375 0 0
+/cart/ 12 276873 0 0
+/wp-content/plugins/woocommerce/assets/js/zeroclipboard/ZeroClipboard.swf 2 8712 0 0
+/product-category/canned-bottled/ 1 8015 0 0
+/product-category/dairy/ 4 35996 0 1
+/product-category/dry-fruits/page/8/ 2 19330 0 0
+/wp-admin/plugin-install.php 4 118627 0 0
+/product/anis-seed/ 3 28168 0 0
+/product-category/beans/page/3/ 2 19516 0 0
+/product-category/canned-bottled-goods/ 1 8579 0 0
+/product-category/glazed/ 2 15453 0 0
+/product/egasus-fillo-fine-silky/ 2 17637 0 0
+/product/kashkaval-cheese-bulgarian-sheeps-milk-small-head-2/ 1 10354 0 0
+/product/kashkaval-cheese-bulgarian-sheeps-milk-2/ 1 10381 0 0
+/product-category/seeds/page/2/ 1 7790 0 0
+/wp-admin/update.php 2 53982 0 0
+/product-category/spices/page/8/ 5 50442 0 0
+/product/alfonso-olives-2/ 1 8415 0 0
+/product/baklava-with-walnut-2/ 3 25080 0 0
+/product/anise-seed/ 1 8481 0 0
+/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot 1 19877 0 1
+/product-category/preserves/ 3 26895 0 0
+/product-category/beans/page/7/ 7 67628 0 0
+/product-category/baklava/ 5 40841 0 0
+/product-category/rollini-mini/page/2/ 1 9530 0 0
+/product/white-pepper-ground/ 3 31377 0 0
+/product/columbian-coffee/ 1 8458 0 0
+/wp-admin/themes.php 1 30608 0 0
+/product/basmati-rice-sela-royal-2/ 4 35321 0 0
+/my-account/edit-address/billing/ 3 53726 0 0
+/product/14-jack-whole-wheat-pita-16oz-8-5/ 3 27398 0 0
+/product-category/dairy/page/4/ 1 9768 0 0
+/my-account/edit-account/ 1 8098 0 0
+/product/bulgur-golden-2/ 2 18042 0 0
+/my-account/view-order/2158/ 1 8086 0 0
+/product-category/dairy/page/2/ 1 9698 0 0
+/wp-admin/load-styles.php 86 6861050 0 0
+/product/adzuki-beans/ 2 21298 0 0
+/product/apollo-kadaif/ 1 8585 0 0
+/uncategorized/the-6-healthiest-staple-foods-in-greek-cuisine/ 1 11002 1 0
+/product-category/dry-fruits/ 14 125114 0 0
+/wp-includes/js/tinymce/skins/lightgray/fonts/tinymce.woff 18 64526 0 0
+/wp-content/plugins/woocommerce/assets/fonts/star.woff 2 3219 0 0
+/wp-content/plugins/motopress-content-editor/fonts/font-awesome/fonts/fontawesome-webfont.woff 35 1579953 0 5
+/wp-admin/ 14 477516 1 0
+/product-category/fillo-pastery/page/2/ 12 115269 0 0
+/product-category/nutsseeds/page/3/ 1 9682 0 0
+/about/faqs/ 3 27187 0 0
+/wp-admin/user-edit.php 4 184904 0 0
+/wp-admin/plugins.php 12 381101 0 0
+/product-category/spices/page/11/ 2 20218 0 0
+/product-category/beans/page/5/ 5 50356 0 0
+/product-category/fillo-pastery/ 3 25408 0 0
+/product/kashkaval-cheese-bulgarian-sheeps-milk-small-head/ 2 20782 0 0
+/product/yogurt-karoun-2/ 1 10300 0 0
+/myadmin/js/messages.php 1 5336 0 0
+/wp-admin/nav-menus.php 6 339171 0 0
+/product/14-jack-junier-12oz-8/ 1 8820 0 0
+/product-category/spices/page/3/ 2 20091 0 0
+/product-category/beans/page/4/ 3 29574 0 0
+/product-category/rollini-mini/ 11 90173 0 1
+/product-category/dry-fruits/page/7/ 2 19432 0 0
+/product-category/dairy/page/3/ 7 68272 0 0
+/product-category/olives/ 1 7833 0 0
+/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff 51 494176 0 0
+/wp-admin/upload.php 4 111059 0 0
+/product/almonds-slivered-blabched-2/ 1 10305 0 0
+/about/ 3 27199 0 0
+/product/apricots-california/ 1 8417 0 0
+/wp-admin/plugin-editor.php 4 118696 0 0
+/product/feta-cheese-greek/ 1 10517 0 0
+/product/almonds-hot-bbq/ 1 8468 0 0
+/product/black-eye-peas/ 1 8628 0 0
+/product/kefalotyri-fantis-vise/ 1 10322 0 0
+/product-category/spices/page/5/ 2 20072 0 0
+/product/black-beans-4/ 3 25021 0 0
+/wp-admin/admin.php 33 1920865 0 0
+/product/orange-peel-glazed/ 1 8415 0 0
+/wp-admin/theme-editor.php 9 271083 1 0
+/product/baklava-with-pistachio/ 2 16675 0 0
+/blog/ 4 38427 0 0
+/product-category/spices/page/10/ 3 30074 0 0
+/wp-admin/edit-tags.php 90 2879794 0 0
+/product-category/beans/page/6/ 3 29138 0 0
+/contacts/ 14 99894 0 0
+/wp-content/plugins/motopress-content-editor/fonts/font-awesome/fonts/fontawesome-webfont.eot 1 61081 1 0
+/product-category/spices/page/17/ 1 10104 0 0
+/check-your-email/ 12 110905 0 0
+/myadmin/phpmyadmin.css.php 1 9388 0 0
+/product-category/grains/ 4 33387 0 0
+/product-category/dairy/page/10/ 1 9632 0 0
+/product/anis-ground/ 1 8545 0 0
+/product/almonds-sliced-blanched/ 1 8487 0 0
+/product-category/nutsseeds/ 13 121696 0 0
+/product-category/dairy/page/8/ 1 9782 0 0
+/product-category/dairy/page/9/ 1 9777 0 0
+/product/kashkaval-cheese-bulgarian-sheeps-milk/ 2 20917 0 0
+/product-category/frozen/ 2 19266 0 0
+/privacy-policy/ 3 29082 0 0
+/product-category/spices/page/9/ 3 30197 0 0
+/product-category/preserves/page/2/ 1 7708 0 0
+/how-to-use-the-site/ 5 43166 0 0
+/blog-category-test/blog-post-test/ 3 31826 0 0
+/product-category/beans/page/2/ 8 70767 0 0
+/product/haloumi-cheese/ 1 10496 0 0
+/product-category/bread-pita/ 3 25562 0 0
+/product/black-colossal/ 1 8596 0 1
+/product-category/dairy/page/5/ 3 29132 0 0
+END_SIDER

@@ -1,0 +1,334 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201511 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.yanin.shahum.net.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1996                
+POS_TIME 2670                
+POS_VISITOR 6410                
+POS_DAY 7209                
+POS_DOMAIN 3368                
+POS_LOGIN 3601                
+POS_ROBOT 3756                
+POS_WORMS 3957                
+POS_EMAILSENDER 4088                
+POS_EMAILRECEIVER 4231                
+POS_SESSION 7706                
+POS_SIDER 7902                
+POS_FILETYPES 4366                
+POS_DOWNLOADS 4670                
+POS_OS 4718                
+POS_BROWSER 4789                
+POS_SCREENSIZE 4978                
+POS_UNKNOWNREFERER 5052                
+POS_UNKNOWNREFERERBROWSER 5139                
+POS_ORIGIN 5221                
+POS_SEREFERRALS 5358                
+POS_PAGEREFS 5502                
+POS_SEARCHWORDS 5650                
+POS_KEYWORDS 5802                
+POS_MISC 2332                
+POS_ERRORS 5861                
+POS_CLUSTER 3457                
+POS_SIDER_404 5999                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20151201053603 1 0 10105768017925
+FirstTime 20151102192606
+LastTime 20151130195920
+LastUpdate 20151202000131 1 0 0 0 0
+TotalVisits 38                  
+TotalUnique 17                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 17                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 110 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 36 68 581415 3 3 1240
+1 7 7 75825 3 11 108117
+2 1 1 10807 1 1 269
+3 40 232 7042053 4 6 4088
+4 346 929 98215052 8 41 90604
+5 109 134 15279563 2 22 4856
+6 32 64 241632 2 3 1856
+7 0 0 0 0 0 0
+8 1 26 157174 1 1 269
+9 7 149 4469986 2 4 2498
+10 0 4 0 0 0 0
+11 1 18 71016 1 1 269
+12 0 0 0 0 0 0
+13 0 0 0 0 0 0
+14 0 0 0 0 0 0
+15 18 465 43469498 4 10 9415090
+16 26 1276 19638876 1 8 9243
+17 46 1665 36255315 3 12 13315
+18 9 463 4351445 1 4 4637
+19 22 481 51858963 5 28 140754
+20 2 2 21607 1 6 30383
+21 4 4 43294 2 11 61846
+22 5 9 81392 2 12 60759
+23 219 560 36960914 6 34 40767
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 931 6557 318825827
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 2
+wordpress 30 8070 20151130195904 0
+netcraft 1 47726 20151107013516 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 12
+css 1107 3595542 0 0
+png 698 9631419 0 0
+bmp 42 10195325 0 0
+woff 22 998720 0 0
+woff2 28 741569 0 0
+php 743 11595385 0 0
+html 138 1554291 0 0
+jpg 1708 273620714 0 0
+js 1943 5362770 0 0
+jpeg 22 442773 0 0
+gif 101 1078349 0 0
+svg 5 8970 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 3
+macosx 2003
+linux 699
+win7 3855
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 8
+chrome46.0.2490.80 996
+safari9.0 1008
+mozilla 18
+firefox39.0 351
+safari9.0.1 617
+chrome27.0.1453 348
+chrome46.0.2490.86 2859
+safari8.0 360
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 95 99
+From1 0 0
+From2 0 0
+From3 0 0
+From4 836 6458
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+302 11 12120
+206 6 9473537
+500 4 2320
+404 52 388923
+301 4 2003
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 4
+/wp_Login.php 1 -
+/apple-touch-icon-precomposed.png 25 -
+/wp_login.php 1 -
+/apple-touch-icon.png 25 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 17
+71.52.36.102 355 964 120646687 20151115003248
+141.0.8.157 261 660 13307843 20151114052859
+141.0.8.142 122 150 1834671 20151115004624
+109.75.35.142 78 3017 86909668 20151127152100
+24.253.107.192 32 64 241632 20151124062545
+72.10.140.66 25 140 2116316 20151130195920
+66.249.93.148 15 416 18798496 20151118173401
+24.188.158.158 14 385 50216532 20151126031248
+96.20.22.168 11 123 4152071 20151130181611
+204.187.14.75 4 117 4889496 20151118165858
+66.249.93.152 2 144 2667388 20151118171248
+24.114.84.220 1 1 10807 20151109024125
+68.1.198.14 1 1 12855 20151120232612
+141.0.9.76 1 5 38098 20151126220526
+204.187.14.73 4 117 4066010 20151118174257
+66.249.93.156 1 136 4801311 20151118165855
+204.187.14.74 4 117 4115946 20151118170903
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 19
+20151102 7 122 1921283 2
+20151104 0 3 0 0
+20151107 2 2 21607 1
+20151109 1 1 10807 1
+20151110 0 3 0 0
+20151111 4 4 43213 2
+20151112 1 26 157174 1
+20151113 4 135 6166615 2
+20151114 709 1850 157441345 5
+20151115 38 70 603103 3
+20151116 3 3 32537 1
+20151117 6 236 43776933 2
+20151118 92 3637 95589316 7
+20151120 8 148 4482841 2
+20151121 2 2 21690 1
+20151124 37 69 295850 2
+20151126 4 8 70630 3
+20151127 4 117 4060419 1
+20151130 9 121 4130464 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+1h+ 2
+5mn-15mn 2
+0s-30s 24
+15mn-30mn 2
+30s-2mn 4
+30mn-1h 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 40
+/wp-admin/admin-ajax.php 492 1582639 2 12
+/ 101 1112832 32 17
+/wp-content/plugins/cherry-plugin/admin/shortcodes/dialog-js.php 88 1062123 0 0
+/wp-admin/load-scripts.php 45 4782459 0 0
+/wp-admin/edit.php 36 1311669 0 0
+/wp-content/plugins/motopress-content-editor/fonts/font-awesome/fonts/fontawesome-webfont.woff2 28 741569 0 4
+/wp-admin/post.php 19 852115 0 0
+/wp-login.php 18 36912 3 1
+/wp-content/plugins/motopress-content-editor/fonts/font-awesome/fonts/fontawesome-webfont.woff 13 861792 0 1
+/wp-admin/load-styles.php 12 967878 0 0
+/wp-admin/media-new.php 1 28596 0 0
+/wp-admin/index.php 6 203505 0 0
+/about/testi/ 1 10552 0 0
+/wp-admin/async-upload.php 2 2185 0 0
+/feed/ 1 5121 0 1
+/shop/ 8 71151 0 0
+/wp-includes/js/tinymce/skins/lightgray/fonts/tinymce.woff 2 18381 0 0
+/wp-admin/admin.php 3 91093 0 0
+/wp-admin/ 4 135874 0 0
+/my-account/ 2 18736 1 0
+/product-category/nutsseeds/page/3/ 1 9818 0 0
+/product-category/spices/page/2/ 1 10380 0 0
+/wp-admin/edit-tags.php 12 385948 0 0
+/new-arrivals/ 1 7420 0 0
+/product-category/dairy/ 2 16690 0 1
+/slide-view/slide-1/ 1 10865 0 0
+/slide-view/slide-2/ 1 10904 0 0
+/wp-admin/options-writing.php 1 28640 0 0
+/wp-admin/options-media.php 1 27853 0 0
+/wp-admin/nav-menus.php 2 85164 0 0
+/product/anis-ground/ 1 10423 0 0
+/product/almonds-sliced-blanched/ 1 8483 0 0
+/product-category/nutsseeds/ 4 38906 0 0
+/product-category/spices/ 3 30952 0 0
+/product-category/olives/ 2 20436 0 0
+/how-to-use-the-site/ 1 7380 0 0
+/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff 7 118547 0 1
+/product-category/baklava/ 2 17368 0 0
+/wp-admin/upload.php 4 110543 0 0
+/wp-admin/options-general.php 1 36063 0 0
+END_SIDER
